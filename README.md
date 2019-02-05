@@ -1,9 +1,9 @@
-<h3>weekly expenses</h3>
-      Introduction
+#weekly expenses
+##Introduction
       
 React application to calculate the expenses
 
-      Installation
+###Installation
 To run it locally, follow this process (Ubuntu or OSX with Brew)
 
 Install NPM
