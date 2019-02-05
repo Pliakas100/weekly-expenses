@@ -17,7 +17,6 @@ OSX: brew install npm
 Install dependencies (this will install all app and server dependencies, afterwards it'll trigger the app build)
 
 npm install
-And repeat
 
 #### Execute
 
