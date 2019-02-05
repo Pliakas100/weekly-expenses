@@ -1,4 +1,4 @@
-weekly expenses
+<h1>weekly expenses</h1>
 Introduction
 React application to calculate the expenses
 
